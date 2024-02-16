@@ -1,2 +1,6 @@
 qaenv
 .env
+.json
+*.json
+*.pyc
+*.egg
